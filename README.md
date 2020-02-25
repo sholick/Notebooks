@@ -1,2 +1,2 @@
 # Notebooks
-Studies and casual playgrounds
+Records of notebooks and researched I have conducted when I am studying
