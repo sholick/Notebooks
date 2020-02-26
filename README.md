@@ -1,2 +1,5 @@
 # Notebooks
-Records of notebooks and researched I have conducted when I am studying
+Sometimes when I am revising, I do my own study about programming problems and techniques.
+When I have spare time, I look into them and try to further enhance them.
+
+This page is not regularly updated.
