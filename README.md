@@ -7,3 +7,6 @@ This page is not regularly updated.
 # Sorting
 1. A study of sorting
 2. Making sense of quick sort
+
+# In progress
+1. Using MonteCarlo Tree Search to play Go
