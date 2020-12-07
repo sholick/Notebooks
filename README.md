@@ -9,5 +9,4 @@ This page is not regularly updated.
 2. Making sense of quick sort
 
 # In progress
-1. Analyzing Go Board positions using Tree Network and MonteCarlo method
-2. Optimizing integer multiplications
+1. Optimizing integer multiplications
